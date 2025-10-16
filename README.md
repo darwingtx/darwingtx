@@ -65,12 +65,23 @@
 ---
 
 ## <p align="center">📫 Contact & Links</p>
+<p align="center">
+  <table>
+    <tr>
+      <th>Platform</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td>✉️ Email</td>
+      <td>darwingtx@gmail.com</td>
+    </tr>
+    <tr>
+      <td>🔗 LinkedIn</td>
+      <td><a href="https://www.linkedin.com/in/darwincastao">Darwin Castaño</a></td>
+    </tr>
+  </table>
+</p>
 
-
-| Platform | Link |
-|----------|------|
-| ✉️ Email | darwingtx@gmail.com |
-| 🔗 LinkedIn | [Darwin Castaño](https://www.linkedin.com/in/darwincastao) |
 
 ---
 
