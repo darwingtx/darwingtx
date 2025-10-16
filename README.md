@@ -55,7 +55,7 @@
 | Platform | Link |
 |----------|------|
 | ✉️ Email | darwingtx@gmail.com |
-| 🔗 LinkedIn | [Your Name](https://www.linkedin.com/in/darwincastao) |
+| 🔗 LinkedIn | [Darwin Castaño](https://www.linkedin.com/in/darwincastao) |
 
 ---
 
