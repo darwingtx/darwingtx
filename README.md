@@ -6,7 +6,7 @@
 ---
 ## <p align="center">🛠️ Technologies & Tools</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,react,spring,aws,gcp,mongodb,postgresql,vscode&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,react,spring,aws,gcp,mongodb,postgresql,vscode,arduino,blender,html,linux,nestjs,notion,postman,pnpm,prisma,supabase,vite,webstorm&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
