@@ -15,7 +15,7 @@
 
 ## <p align="center">🛠️ Technologies & Tools</p>
 
-<p align="center">
+<p ">
 | Technology | Description |
 |------------|-------------|
 | 🐍 Python | Scripting, automation, backend development |
