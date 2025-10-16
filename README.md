@@ -1,13 +1,27 @@
-
 <h2 align="center">
   <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg"> 
   <br>
   <br>
   Hey There! I'm Darwin Castaño <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
+
+<!-- 🧠 ABOUT ME SECTION -->
+<p align="center">
+  <h3 align="center">👨‍💻 About Me</h3>
+</p>
+
+<p align="center">
+  I’m a passionate <strong>Computer Engineering student</strong> who loves to code, lead, and constantly learn new things.  
+  I enjoy exploring new technologies, contributing to <strong>open-source</strong> projects, and experimenting with <strong>Artificial Intelligence</strong>.  
+  When I’m not coding, you’ll probably find me playing <strong>video games</strong> or diving into new tech trends.  
+  <br><br>
+  My philosophy is simple: <em>Keep learning, keep building, and never stop growing.</em> 🚀
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Developer;AI+Developer;Tech+Passionate">
 </p>
+
 
 
 
