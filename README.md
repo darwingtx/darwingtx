@@ -31,39 +31,35 @@
 ---
 
 
+
+
 ## <p align="center">🎯 Interests & Goals</p>
 
 <p align="center">
-- Contribute to open source in backend, infrastructure, automation  
-- Deepen knowledge in DevOps, Kubernetes, scalable microservices  
-- Participate in hackathons and collaborate with software communities  
+  <ul style="list-style: none; text-align: center;">
+    <li>💻 Contribute to open-source projects focused on backend systems and data analysis</li>
+    <li>📊 Advance my career towards Data Science and Data Engineering</li>
+    <li>☁️ Expand my knowledge in cloud computing (AWS & Google Cloud)</li>
+    <li>⚙️ Improve my skills in scalable architectures, APIs, and performance optimization</li>
+    <li>📚 Keep learning new technologies and exploring modern tools for software development</li>
+    <li>🤝 Collaborate with developer communities and share knowledge with others</li>
+  </ul>
 </p>
+
 
 ---
 
 ## <p align="center">📫 Contact & Links</p>
 
-<p align="center">
+
 | Platform | Link |
 |----------|------|
-| ✉️ Email | your.email@example.com |
-| 🐦 Twitter | [@youruser](https://twitter.com/youruser) |
-| 🔗 LinkedIn | [Your Name](https://www.linkedin.com/in/youruser/) |
-</p>
+| ✉️ Email | darwingtx@gmail.com |
+| 🔗 LinkedIn | [Your Name](https://www.linkedin.com/in/darwincastao) |
 
 ---
 
 <p align="center">
 > “The best way to predict the future is to create it.” — Peter Drucker  
-</p>
 
-name: Comment reactions
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.reactions.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_reactions: yes
-  plugin_reactions_limit: 100
-  plugin_reactions_details: percentage
 
