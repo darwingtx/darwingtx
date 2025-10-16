@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/darwingtx">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Passionate%20about%20Technology;Focused%20on%20Excellence&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+            <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;AI%20Developer;Passionate%20about%20Technology;Always%20Improving&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
