@@ -4,32 +4,15 @@
 </p>
 
 ---
-
+## <p align="center">🛠️ Technologies & Tools</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,typescript,react,spring,aws,gcp,mongodb,postgresql,vscode&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
 
-## <p align="center">🛠️ Technologies & Tools</p>
-
-## <p align="center">🛠️ Technologies & Tools</p>
 
 
-| Technology | Description |
-|------------|-------------|
-| 🐍 Python | Scripting, automation, backend development |
-| ☕ Java | Object-oriented programming, APIs |
-| 📘 TypeScript | Strong typing for frontend |
-| ⚛️ React | Building reactive user interfaces |
-| 🌱 Spring Boot | Microservices, REST APIs, security |
-| 🍃 MongoDB | NoSQL database, flexible schemas |
-| 🐘 PostgreSQL | Relational database |
-| ☁️ AWS / GCP | Cloud services, deployments, infrastructure |
-| 🖥️ VSCode | My preferred daily development editor |
-
-
----
 
 ## <p align="center">📊 Stats & Badges</p>
 
