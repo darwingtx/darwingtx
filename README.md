@@ -9,13 +9,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Developer;AI+Developer;Tech+Passionate">
 </p>
 
----
+
+
 ## <p align="center">🛠️ Technologies & Tools</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,typescript,react,spring,aws,gcp,mongodb,postgresql,vscode,arduino,blender,html,css,linux,nestjs,notion,postman,pnpm,prisma,supabase,vite,webstorm&theme=dark" alt="Tech stack icons" />
 </p>
 
----
+
 
 
 
@@ -28,7 +29,7 @@
 ![](https://komarev.com/ghpvc/?username=darwingtx&color=blue)
 
 
----
+
 
 
 
