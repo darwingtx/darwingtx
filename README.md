@@ -15,7 +15,7 @@
 
 ## <p align="center">🛠️ Technologies & Tools</p>
 
-<p ">
+
 | Technology | Description |
 |------------|-------------|
 | 🐍 Python | Scripting, automation, backend development |
@@ -27,7 +27,7 @@
 | 🐘 PostgreSQL | Relational database |
 | ☁️ AWS / GCP | Cloud services, deployments, infrastructure |
 | 🖥️ VSCode | My preferred daily development editor |
-</p>
+
 
 ---
 
