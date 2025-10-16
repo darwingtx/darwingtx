@@ -13,7 +13,7 @@
 <p align="center">
   I’m a passionate <strong>Computer Engineering student</strong> who loves to code, lead, and constantly learn new things.  
   I enjoy exploring new technologies, contributing to <strong>open-source</strong> projects, and experimenting with <strong>Artificial Intelligence</strong>.  
-  When I’m not coding, you’ll probably find me playing <strong>video games</strong> or diving into new tech trends.  
+  When I’m not coding, you’ll probably find me playing <strong>video games</strong> or reading some book. 
   <br><br>
   My philosophy is simple: <em>Keep learning, keep building, and never stop growing.</em> 🚀
 </p>
