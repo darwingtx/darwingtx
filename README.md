@@ -1,82 +1,76 @@
-# 👋 Hola, soy Chewi
-
-Bienvenido/a a mi perfil de GitHub.  
-Soy estudiante de ingeniería informática, con pasión por desarrollar software escalable, aprender nuevas tecnologías y colaborar en proyectos de código abierto.
-
----
-
-## 🛠️ Tecnologías & Herramientas
-
 <p align="center">
-  <!-- usando skillicons para mostrar iconos de tecnologías -->
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,react,spring,aws,gcp,mongodb,postgresql,vscode&theme=dark" alt="tech icons" />
+  <h1>👋 Hello, I’m Chewi</h1>
+  <p>Welcome to my GitHub profile. I’m a Computer Engineering student passionate about building scalable software, learning new technologies, and collaborating on open source projects.</p>
 </p>
 
-| Tecnología | Detalle |
-|------------|---------|
-| 🐍 Python | Experiencia en scripts, automatización y desarrollo backend |
-| ☕ Java | Desarrollo orientado a objetos y APIs |
-| 📘 TypeScript | Desarrollo frontend con tipado fuerte |
-| ⚛️ React | Construcción de interfaces reactivas |
-| 🌱 Spring Boot | Microservicios, REST, seguridad |
-| 🍃 MongoDB | Base de datos NoSQL, modelado flexible |
-| 🐘 PostgreSQL | Bases de datos relacionales robustas |
-| ☁️ AWS / GCP | Despliegue, servicios en la nube, infraestructura |
-| 🖥️ VSCode | Mi editor predilecto para desarrollo diario |
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,react,spring,aws,gcp,mongodb,postgresql,vscode&theme=dark" alt="Tech stack icons" />
+</p>
 
 ---
 
-## 📊 Estadísticas & Badges
+## <p align="center">🛠️ Technologies & Tools</p>
 
-<!-- Badges de Shields.io u otros -->
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)](https://github.com/TU_USUARIO)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)](https://github.com/TU_USUARIO)  
-![](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue) <!-- contador de visitas -->
-
----
-
-## 🚀 Proyectos Destacados
-
-- **NombreProyecto1** – descripción breve del proyecto, tecnologías usadas, logros.  
-- **NombreProyecto2** – descripción breve, retos superados, enlaces.  
-- **NombreProyecto3** – …
-
-*(Puedes poner enlaces directos a tus repositorios o demos)*
+<p align="center">
+| Technology | Description |
+|------------|-------------|
+| 🐍 Python | Scripting, automation, backend development |
+| ☕ Java | Object-oriented programming, APIs |
+| 📘 TypeScript | Strong typing for frontend |
+| ⚛️ React | Building reactive user interfaces |
+| 🌱 Spring Boot | Microservices, REST APIs, security |
+| 🍃 MongoDB | NoSQL database, flexible schemas |
+| 🐘 PostgreSQL | Relational database |
+| ☁️ AWS / GCP | Cloud services, deployments, infrastructure |
+| 🖥️ VSCode | My preferred daily development editor |
+</p>
 
 ---
 
-## 🎯 Intereses & Metas
+## <p align="center">📊 Stats & Badges</p>
 
-- Contribuir en proyectos open source relacionados con **backend**, **infraestructura** y **automatización**.  
-- Aprender más sobre **DevOps**, **Kubernetes**, **microservicios escalables**.  
-- Participar en hackatones y colaboraciones con comunidades de software libre.
-
----
-
-## 📫 Contacto & Redes
-
-| Medio | Enlace / usuario |
-|-------|-------------------|
-| ✉️ Email | tu.email@example.com |
-| 🐦 Twitter | [@tu_usuario](https://twitter.com/tu_usuario) |
-| 🔗 LinkedIn | [Tu Nombre](https://www.linkedin.com/in/tu-usuario/) |
+<p align="center">
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)](https://github.com/USERNAME)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)](https://github.com/USERNAME)  
+![](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+</p>
 
 ---
 
-> “La mejor forma de predecir el futuro es crearlo.”  
-> — Peter Drucker
+## <p align="center">🚀 Featured Projects</p>
+
+<p align="center">
+- **ProjectName1** – brief description, tech used, achievements  
+- **ProjectName2** – what was challenging, what you built  
+- **ProjectName3** – link, highlights, learning  
+</p>
 
 ---
 
-### Cómo usar este README
+## <p align="center">🎯 Interests & Goals</p>
 
-1. Crea un repositorio público con nombre **igual a tu usuario de GitHub**.  
-2. Añade este `README.md` en la raíz.  
-3. Sustituye los placeholders (`TU_USUARIO`, nombre de proyectos, enlaces, etc.).  
-4. Opcional: activa GitHub Actions para actualizar fechas, actividad reciente, etc.  
+<p align="center">
+- Contribute to open source in backend, infrastructure, automation  
+- Deepen knowledge in DevOps, Kubernetes, scalable microservices  
+- Participate in hackathons and collaborate with software communities  
+</p>
 
 ---
 
-Si quieres, te lo formato listo con tus proyectos y enlaces exactos, lo comparamos y lo adaptamos. ¿Te lo preparo tú con tus datos?
-::contentReference[oaicite:0]{index=0}
+## <p align="center">📫 Contact & Links</p>
+
+<p align="center">
+| Platform | Link |
+|----------|------|
+| ✉️ Email | your.email@example.com |
+| 🐦 Twitter | [@youruser](https://twitter.com/youruser) |
+| 🔗 LinkedIn | [Your Name](https://www.linkedin.com/in/youruser/) |
+</p>
+
+---
+
+<p align="center">
+> “The best way to predict the future is to create it.” — Peter Drucker  
+</p>
