@@ -30,15 +30,6 @@
 
 ---
 
-## <p align="center">🚀 Featured Projects</p>
-
-<p align="center">
-- **ProjectName1** – brief description, tech used, achievements  
-- **ProjectName2** – what was challenging, what you built  
-- **ProjectName3** – link, highlights, learning  
-</p>
-
----
 
 ## <p align="center">🎯 Interests & Goals</p>
 
