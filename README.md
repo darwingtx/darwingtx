@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>👋 Hello, I’m Chewi</h1>
-  <p>Welcome to my GitHub profile. I’m a Computer Engineering student passionate about building scalable software, learning new technologies, and collaborating on open source projects.</p>
+  <h1>👋 Hello, I’m Darwin Castaño</h1>
+  <p>Welcome to my GitHub profile. I’m a Computer Engineering student passionate about building scalable software, learning new technologies, and collaborating on group projects.</p>
 </p>
 
 ---
