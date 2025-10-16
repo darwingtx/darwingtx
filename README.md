@@ -17,8 +17,8 @@
 ## <p align="center">📊 Stats & Badges</p>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=darwingtx&show_icons=true&theme=dark)](https://github.com/darwingtx)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwingtx&layout=compact&theme=dark)](https://github.com/darwingtx)  
+[![darwingtx’s GitHub stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=darwingtx&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/darwingtx?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=darwingtx&layout=compact&langs_count=6&theme=blue-green)](https://github.com/darwingtx)
+ 
 ![](https://komarev.com/ghpvc/?username=darwingtx&color=blue)
 
 
@@ -59,3 +59,14 @@
 <p align="center">
 > “The best way to predict the future is to create it.” — Peter Drucker  
 </p>
+
+name: Comment reactions
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.reactions.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_reactions: yes
+  plugin_reactions_limit: 100
+  plugin_reactions_details: percentage
+
