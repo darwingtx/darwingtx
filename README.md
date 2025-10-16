@@ -13,6 +13,8 @@
 
 ## <p align="center">🛠️ Technologies & Tools</p>
 
+## <p align="center">🛠️ Technologies & Tools</p>
+
 <p align="center">
 | Technology | Description |
 |------------|-------------|
